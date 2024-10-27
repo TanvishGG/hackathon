@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">V-Student Utilities</string>
+    <string name="name">Enter your name</string>
+    <string name="mobile">Enter your mobile number</string>
+    <string name="source">Enter your source place</string>
+    <string name="destination">Enter your destination</string>
+    <string name="submit">Submit lookup post</string>
+</resources>
